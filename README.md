@@ -22,7 +22,7 @@ Currently exploring **LLM-based AI apps**, **RAG pipelines**, and **Agentic AI w
 
 ## 🏆 Featured Projects  
 
-### 🤖 HireIQ — AI Job Application Coach  
+### 🤖 HireIQ — AI-Powered Job Application Assistant  
 [![Repo](https://img.shields.io/badge/Repo-HireIQ-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brijeshbd/hireiq)  
 AI-powered job assistant built using **React + FastAPI + Groq LLM**, with semantic search and AI workflows.
 
